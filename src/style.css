@@ -153,3 +153,13 @@ nav ul li:hover{
     margin: 2% 1%;
 }
 
+.main{
+    width: 1000px;
+    margin: auto;
+    padding: 25px;
+}
+
+.main p{
+    line-height: 2rem;
+    font-weight: 900;
+}
