@@ -1,3 +1,6 @@
 import './script'
 import './all.min.js'
 import './style.css'
+import img from '../public/img/10.jpg'
+import photo from '../public/img/9.jpg'
+import pic from '../public/img/8.jpg'
